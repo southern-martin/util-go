@@ -1,6 +1,6 @@
 module github.com/southern-martin/util-go
 
-go 1.14
+go 1.15
 
 require (
 	github.com/stretchr/testify v1.5.1
